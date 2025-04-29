@@ -2,6 +2,13 @@
 
 Welcome to Project Store, a sleek and responsive e-commerce web application built with React and Vite. This project showcases a futuristic theme and seamless integration with the FakeStore API for product data.
 
+![image](https://github.com/user-attachments/assets/69e4babb-f64b-4aa2-ba01-94b330f58d0f)
+![image](https://github.com/user-attachments/assets/883998af-4181-47b7-89f9-af14b6497941)
+![image](https://github.com/user-attachments/assets/b976cd03-0147-4289-807e-ae95adfad377)
+![image](https://github.com/user-attachments/assets/11e87b2c-697c-4b86-8349-8aba0045d0df)
+![image](https://github.com/user-attachments/assets/204f7d5d-4c30-4cc8-81fc-bf6fb430ea65)
+
+
 ## Key Features
 
 *   **Responsive Design**: Adapts to mobile, tablet, and desktop screens.
